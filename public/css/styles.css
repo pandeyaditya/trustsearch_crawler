@@ -1,0 +1,94 @@
+body{
+    font-family: "Montserrat", Arial;
+    background-color:#ffffff;
+}
+
+.search_item{
+    height:50px;
+    width:500px;
+    margin:0 auto;
+    border-radius:5px;
+    padding:5px;
+}
+
+.error{
+    color:#ff0000;
+}
+
+
+.radio{
+    width:20px;
+    height:20px;
+    margin-left:5x;
+    margin-right:5px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+}
+
+hr{
+    border:1px solid #c7c7c7;
+}
+
+.review__actions{
+    display: none;
+}
+
+div.star-rating>img{
+    width: 100px;
+}
+
+.pagination-container{
+    display: none;
+}
+
+.review-content__title{
+    font-size:14px;
+}
+
+.consumer-information__data{
+    display: none;
+}
+
+.companylogo{
+    width:200px;
+}
+
+.review-card{
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.review-stack{
+    display: none;
+}
+
+.review-content__text{
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 3.6em;
+    line-height: 1.8em;
+}
+
+.banner-heading{
+    cursor:pointer;
+    text-decoration: none;
+    font-size:60px;
+}
+
+
+.banner-heading:hover{
+    text-decoration: none;
+}
+
+.button_style{
+    position: absolute;top:40px;right: 150px;
+}
